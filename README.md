@@ -1,7 +1,10 @@
 # Aula-HTML5-CSS3
 ## Aula de como usar HTML5 e CSS3
 
-- Iniciando
+
+## Semântica
+
+- ### Iniciando
 
 Serve para informar o navegador que se trata de um documento do tipo html5
 
@@ -78,6 +81,17 @@ Representa o cabeçalho
 </header>
 ```
 
+- ### section
+
+Uma sesssão generica de conteudo como uma lista de artido
+
+- ### article
+
+Conteudo relevante dentro da sua pagina como um artigo de um blog
+
+- ### aside
+
+Um conteudo relacionado ao conteudo principal da pagina como a biografia de um autor e link  relacionados, representado por uma barra lateral
 
 
 
