@@ -10,5 +10,16 @@
 
 - ### ```<a> link </a> ```
 
+``` <a href="https://www.linkedin.com/in/jose-victor-rojas">linkedin</a> ```
+      
+      Iperlink para ode sua ancora esta apontando
+
+
+``` <a target="_blank">link</a> ```
+
+     Como o link sera aberto
+
+
+
 
 
