@@ -4,9 +4,9 @@ Após a criação do HTML a necessidade de formatar as páginas ficou evidente, 
 
 A sintaxe é bem simples e pode ser explicada com a frase "você cria regras de estilo para elementos ou grupos de elementos".
 
-Vamos usar um elemento HTML que vimos anteriormente, a âncora <a>, para exemplificar.
+Vamos usar um elemento HTML que vimos anteriormente, a âncora ```<a>```, para exemplificar.
 
-Uma regra CSS é representada por um seletor ou um grupo de seletores, no nosso caso é o <a>, então dentro de um par de chaves adicionamos as declarações, no exemplo acima estamos alterando cor e tamanho da fonte dessa âncora, as declarações são formadas por uma propriedade e um valor.
+Uma regra CSS é representada por um seletor ou um grupo de seletores, no nosso caso é o ```<a>```, então dentro de um par de chaves adicionamos as declarações, no exemplo acima estamos alterando cor e tamanho da fonte dessa âncora, as declarações são formadas por uma propriedade e um valor.
 
 Percebam que podemos colocar vários seletores em uma regra separando-os por vírgula.
 
@@ -17,7 +17,7 @@ O a:hover do exemplo significa que a âncora também terá essa aparência quand
  
 
 ## ID x Classe
-No exemplo anterior criamos uma regra que altera um elemento HTML diretamente, mas isso significa que todos os elementos <a> ficarão com aquela aparência, e normalmente temos sites mais complexos que precisam de várias regras diferentes para elementos iguais.
+No exemplo anterior criamos uma regra que altera um elemento HTML diretamente, mas isso significa que todos os elementos ```<a>``` ficarão com aquela aparência, e normalmente temos sites mais complexos que precisam de várias regras diferentes para elementos iguais.
 
 Para ficar mais tangível vamos relembrar um pouco o site que começamos a fazer no módulo passado, ele tinha vários elementos header, mas não vamos querer que o header principal tenha a mesma formatação que o header de uma postagem, é aí que entram os IDs e Classes.
 
